@@ -292,7 +292,7 @@
         
         <div class="container">
           <div class="header">
-            <h1>Муж на час Гомель</h1>
+            <h1>Муж на час в Гомеле</h1>
             <div class="header-meta">
               
               <xsl:if test="count(sitemap:sitemapindex/sitemap:sitemap) &gt; 0">

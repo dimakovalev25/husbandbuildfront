@@ -1,0 +1,15 @@
+# Муж на час в Гомеле
+
+Canonical Origin: https://master-gomel.by/
+
+## LLM Resources
+
+- [Full Content](https://master-gomel.by/llms-full.txt): Complete page content in markdown format.
+- [sitemap.xml](https://master-gomel.by/sitemap.xml): XML sitemap for search engines and crawlers.
+- [robots.txt](https://master-gomel.by/robots.txt): Crawler rules and permissions.
+
+## Pages
+
+- [/](https://master-gomel.by/index.md)
+- [/articles](https://master-gomel.by/articles.md)
+- [/review](https://master-gomel.by/review.md)

@@ -1,6 +1,8 @@
 # START nuxt-robots (indexable)
 User-agent: *
+Allow: /
 Disallow: 
+Content-Signal: search=yes, ai-input=yes
 
-Sitemap: https://www.master-gomel.by/sitemap.xml
+Sitemap: https://master-gomel.by/sitemap.xml
 # END nuxt-robots
