@@ -172,19 +172,6 @@ Canonical Origin: https://master-gomel.by/
 
 ---
 
-- **Page:** Review | Муж на час в Гомеле
-- **Source:** https://master-gomel.by/review
-
-## Reviews Отзывы !!
-
-Страница в разработке! Программисты тоже бесплатно не работают!
-
-```json
-{"@context":"https://schema.org","@graph":[{"@id":"https://master-gomel.by/#website","@type":"WebSite","name":"Муж на час в Гомеле","url":"https://master-gomel.by/"},{"@id":"https://master-gomel.by/review#webpage","@type":"WebPage","name":"Review","url":"https://master-gomel.by/review","isPartOf":{"@id":"https://master-gomel.by/#website"},"potentialAction":[{"@type":"ReadAction","target":["https://master-gomel.by/review"]}]}]}
-```
-
----
-
 - **Page:** Articles | Муж на час в Гомеле
 - **Source:** https://master-gomel.by/articles
 
@@ -194,5 +181,18 @@ Canonical Origin: https://master-gomel.by/
 
 ```json
 {"@context":"https://schema.org","@graph":[{"@id":"https://master-gomel.by/#website","@type":"WebSite","name":"Муж на час в Гомеле","url":"https://master-gomel.by/"},{"@id":"https://master-gomel.by/articles#webpage","@type":"WebPage","name":"Articles","url":"https://master-gomel.by/articles","isPartOf":{"@id":"https://master-gomel.by/#website"},"potentialAction":[{"@type":"ReadAction","target":["https://master-gomel.by/articles"]}]}]}
+```
+
+---
+
+- **Page:** Review | Муж на час в Гомеле
+- **Source:** https://master-gomel.by/review
+
+## Reviews Отзывы !!
+
+Страница в разработке! Программисты тоже бесплатно не работают!
+
+```json
+{"@context":"https://schema.org","@graph":[{"@id":"https://master-gomel.by/#website","@type":"WebSite","name":"Муж на час в Гомеле","url":"https://master-gomel.by/"},{"@id":"https://master-gomel.by/review#webpage","@type":"WebPage","name":"Review","url":"https://master-gomel.by/review","isPartOf":{"@id":"https://master-gomel.by/#website"},"potentialAction":[{"@type":"ReadAction","target":["https://master-gomel.by/review"]}]}]}
 ```
 

@@ -1,0 +1,1 @@
+import"./DFRxlUI0.js";import{O as e,P as t,T as n,X as r}from"./C_Rk3Ix_.js";var i=t({__name:`index`,setup(t){return(t,i)=>(r(),e(`div`,null,[...i[0]||=[n(`h2`,null,`Reviews Отзывы !!`,-1),n(`p`,null,`Страница в разработке! Программисты тоже бесплатно не работают!`,-1)]]))}});export{i as default};
