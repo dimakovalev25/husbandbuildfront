@@ -1,12 +1,12 @@
 ---
-title: "Муж на час в Гомеле — мастер по мелкому ремонту | Муж на час в Гомеле"
-description: "Муж на час в Гомеле. Сборка мебели, установка полок и телевизоров, замена смесителей, ремонт розеток и замков. Выезд по Гомелю, вечера и выходные. Цена от 25 BYN/час."
+title: "Муж на час в Гомеле — цены от 25 BYN/час, вызов мастера | Муж на час в Гомеле"
+description: "Мастер на час в Гомеле: сборка мебели, крепление телевизоров и полок, замена смесителей, розеток и замков. Выезд в день обращения, вечера и выходные. Цена от 25 BYN/час."
 canonical_url: "https://master-gomel.by/"
 meta:
-  "og:description": "Муж на час в Гомеле. Сборка мебели, установка полок и телевизоров, замена смесителей, ремонт розеток и замков. Выезд по Гомелю, вечера и выходные. Цена от 25 BYN/час."
-  "og:title": "Муж на час в Гомеле — мастер по мелкому ремонту"
-  "twitter:description": "Муж на час в Гомеле. Сборка мебели, установка полок и телевизоров, замена смесителей, ремонт розеток и замков. Выезд по Гомелю, вечера и выходные. Цена от 25 BYN/час."
-  "twitter:title": "Муж на час в Гомеле — мастер по мелкому ремонту"
+  "og:description": "Мастер на час в Гомеле: сборка мебели, крепление телевизоров и полок, замена смесителей, розеток и замков. Выезд в день обращения, вечера и выходные. Цена от 25 BYN/час."
+  "og:title": "Муж на час в Гомеле — цены от 25 BYN/час, вызов мастера"
+  "twitter:description": "Мастер на час в Гомеле: сборка мебели, крепление телевизоров и полок, замена смесителей, розеток и замков. Выезд в день обращения, вечера и выходные. Цена от 25 BYN/час."
+  "twitter:title": "Муж на час в Гомеле — цены от 25 BYN/час, вызов мастера"
 ---
 
 > Index of every page on this site: [llms.txt](https://master-gomel.by/llms.txt)
@@ -210,11 +210,11 @@ Viber
 </details>
 
 ```json
-{"@context":"https://schema.org","@type":"HomeAndConstructionBusiness","name":"Муж на час в Гомеле","url":"https://master-gomel.by","description":"Муж на час в Гомеле. Сборка мебели, установка полок и телевизоров, замена смесителей, ремонт розеток и замков. Выезд по Гомелю, вечера и выходные. Цена от 25 BYN/час.","areaServed":{"@type":"City","name":"Гомель","containedInPlace":{"@type":"Country","name":"Беларусь"}},"priceRange":"от 25 BYN/час","currenciesAccepted":"BYN","availableLanguage":"Russian","hasOfferCatalog":{"@type":"OfferCatalog","name":"Услуги мастера","itemListElement":[{"@type":"OfferCatalog","name":"Сборка мебели"},{"@type":"OfferCatalog","name":"Мелкий бытовой ремонт"},{"@type":"OfferCatalog","name":"Установка полок и телевизоров"},{"@type":"OfferCatalog","name":"Замена смесителей и сантехнические работы"}]}}
+{"@context":"https://schema.org","@type":"HomeAndConstructionBusiness","name":"Муж на час в Гомеле","url":"https://master-gomel.by","image":"https://master-gomel.by/og.jpg","telephone":"+375298677824","description":"Мастер на час в Гомеле: сборка мебели, крепление телевизоров и полок, замена смесителей, розеток и замков. Выезд в день обращения, вечера и выходные. Цена от 25 BYN/час.","priceRange":"от 25 BYN/час","address":{"@type":"PostalAddress","addressLocality":"Гомель","addressCountry":"BY"},"areaServed":{"@type":"City","name":"Гомель"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"16:00","closes":"22:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":["Saturday","Sunday"],"opens":"09:00","closes":"22:00"}],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Услуги мастера","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Сборка мебели"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Мелкий бытовой ремонт"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Крепление полок и телевизоров"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Замена смесителей"}}]}}
 ```
 
 ```json
-{"@context":"https://schema.org","@graph":[{"@id":"https://master-gomel.by/#website","@type":"WebSite","name":"Муж на час в Гомеле","url":"https://master-gomel.by/"},{"@id":"https://master-gomel.by#webpage","@type":"WebPage","description":"Муж на час в Гомеле. Сборка мебели, установка полок и телевизоров, замена смесителей, ремонт розеток и замков. Выезд по Гомелю, вечера и выходные. Цена от 25 BYN/час.","name":"Муж на час в Гомеле — мастер по мелкому ремонту","url":"https://master-gomel.by","isPartOf":{"@id":"https://master-gomel.by/#website"},"potentialAction":[{"@type":"ReadAction","target":["https://master-gomel.by"]}]}]}
+{"@context":"https://schema.org","@graph":[{"@id":"https://master-gomel.by/#website","@type":"WebSite","name":"Муж на час в Гомеле","url":"https://master-gomel.by/"},{"@id":"https://master-gomel.by#webpage","@type":"WebPage","description":"Мастер на час в Гомеле: сборка мебели, крепление телевизоров и полок, замена смесителей, розеток и замков. Выезд в день обращения, вечера и выходные. Цена от 25 BYN/час.","name":"Муж на час в Гомеле — цены от 25 BYN/час, вызов мастера","url":"https://master-gomel.by","isPartOf":{"@id":"https://master-gomel.by/#website"},"potentialAction":[{"@type":"ReadAction","target":["https://master-gomel.by"]}]}]}
 ```
 
 ## Sitemap

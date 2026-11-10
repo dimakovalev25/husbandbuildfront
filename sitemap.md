@@ -8,5 +8,5 @@ All pages in Markdown format.
 ## articles
 - [Articles | Муж на час в Гомеле](https://master-gomel.by/articles.md)
 
-## review
-- [Review | Муж на час в Гомеле](https://master-gomel.by/review.md)
+## reviews
+- [Отзывы клиентов — Муж на час в Гомеле | Муж на час в Гомеле](https://master-gomel.by/reviews.md)
