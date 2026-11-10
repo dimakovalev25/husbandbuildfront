@@ -12,4 +12,4 @@ Canonical Origin: https://master-gomel.by/
 
 - [/](https://master-gomel.by/index.md)
 - [/articles](https://master-gomel.by/articles.md)
-- [/review](https://master-gomel.by/review.md)
+- [/reviews](https://master-gomel.by/reviews.md)
