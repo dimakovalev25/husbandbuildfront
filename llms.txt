@@ -11,5 +11,4 @@ Canonical Origin: https://master-gomel.by/
 ## Pages
 
 - [/](https://master-gomel.by/index.md)
-- [/articles](https://master-gomel.by/articles.md)
 - [/reviews](https://master-gomel.by/reviews.md)

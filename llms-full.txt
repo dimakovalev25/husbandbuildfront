@@ -96,44 +96,6 @@ Canonical Origin: https://master-gomel.by/
 
 я Вам перезвоню, обговорим работу, цену работы и сроки выполнения
 
-Отзывы клиентов
-
-## Что говорят о моей работе
-
-Реальные отзывы людей, которым я помог с домашними задачами.
-
-[Все отзывы](https://master-gomel.by/reviews)
-
-**Алексей**7 июня 2026 г.
-
-Viber
-
-**Светлана Дмитриевна**7 июля 2026 г.
-
-Viber
-
-**Карина**23 апреля 2026 г.
-
-Viber
-
-**Александр**12 июня 2026 г.
-
-Viber
-
-**Владислав**7 марта 2026 г.
-
-Viber
-
-Мастер замерил размеры под распил в кладовой, сам заказал распил и собрал в кладовой полки под сушку/стиралку и прочее. Руки у него золотые
-
-**Василий**9 февраля 2026 г.
-
-Viber
-
-Отвалилась створка шкафчика, Мастер усилил и поправил. Оперативно и дешево! Рекомендую!
-
-[Смотреть все отзывы](https://master-gomel.by/reviews)
-
 Есть вопросы?
 
 ## Лучше уточнить<br>заранее.
@@ -216,19 +178,6 @@ Viber
 
 ```json
 {"@context":"https://schema.org","@graph":[{"@id":"https://master-gomel.by/#website","@type":"WebSite","name":"Муж на час в Гомеле","url":"https://master-gomel.by/"},{"@id":"https://master-gomel.by#webpage","@type":"WebPage","description":"Мастер на час в Гомеле: сборка мебели, крепление телевизоров и полок, замена смесителей, розеток и замков. Выезд в день обращения, вечера и выходные. Цена от 25 BYN/час.","name":"Муж на час в Гомеле — цены от 25 BYN/час, вызов мастера","url":"https://master-gomel.by","isPartOf":{"@id":"https://master-gomel.by/#website"},"potentialAction":[{"@type":"ReadAction","target":["https://master-gomel.by"]}]}]}
-```
-
----
-
-- **Page:** Articles | Муж на час в Гомеле
-- **Source:** https://master-gomel.by/articles
-
-## Articles!!!!!!!!!!!
-
-Страница в разработке!
-
-```json
-{"@context":"https://schema.org","@graph":[{"@id":"https://master-gomel.by/#website","@type":"WebSite","name":"Муж на час в Гомеле","url":"https://master-gomel.by/"},{"@id":"https://master-gomel.by/articles#webpage","@type":"WebPage","name":"Articles","url":"https://master-gomel.by/articles","isPartOf":{"@id":"https://master-gomel.by/#website"},"potentialAction":[{"@type":"ReadAction","target":["https://master-gomel.by/articles"]}]}]}
 ```
 
 ---
